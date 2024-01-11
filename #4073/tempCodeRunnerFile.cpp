@@ -1,0 +1,1 @@
+v.resize(n + 1, make_pair(0, 0));
